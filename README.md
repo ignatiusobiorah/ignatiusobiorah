@@ -2,7 +2,7 @@
 
  [![Website Badge](https://img.shields.io/badge/-pope-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://#)](#) [![Linkedin Badge](https://img.shields.io/badge/-ignatiusobiorah-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ignatius-obiorah-5242a6191/)](https://www.linkedin.com/in/ignatius-obiorah-5242a6191/) [![Twitter Badge](https://img.shields.io/badge/-@whxspope-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/whxspope)](https://x.com/whxspope)
 
-I'm a Frontend Engineer and Blockchain Enthusiast. I'm passionate about web3, crypto, video games, Skateboarding and the environment. I also write on my [Medium](https://medium.com/@whoispope_), [Cryptorag](https://swiftransact.substack.com/) and have a [YouTube](https://www.youtube.com/channel/UC3GoStsuaNtM9aw3gzT8KyA/featured)) channel
+I'm a Frontend Engineer and Blockchain Enthusiast. I'm passionate about web3, crypto, video games, Skateboarding and the environment. I also write on my [Medium](https://medium.com/@whoispope_), [Cryptorag](https://swiftransact.substack.com/) and have a [YouTube](https://www.youtube.com/channel/UC3GoStsuaNtM9aw3gzT8KyA/featured) channel
 
 **Here's a quick summary about me**:
 
