@@ -7,9 +7,9 @@ I'm a Frontend Engineer and Blockchain Enthusiast. I'm passionate about web3, cr
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 🧑‍💻 My niche is JavaScript, Reactjs, and Typescript.
+- 🧑‍💻 My stack is JavaScript, Reactjs, and Typescript.
 - 💁 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Front Engineer, UI Engineer, Game Tester, Content Writer (Intern or Junior level).
+- 💼 Job interests: Frontend Engineer (Intern or Junior level).
 - 📫 You can [view my resume](https://docs.google.com/document/d/1dRT9CCBmQvUU85cK_YbNFF79doHATAkux1-EO_quo40/edit?usp=sharing) and contact me by emailing iobiorah23@gmail.com
 
 ---
