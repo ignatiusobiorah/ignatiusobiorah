@@ -1,15 +1,13 @@
 # Hello there; welcome 👋🏾
 
- [![Website Badge](https://img.shields.io/badge/-pope-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://#)](#) [![Linkedin Badge](https://img.shields.io/badge/-ignatiusobiorah-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ignatius-obiorah-5242a6191/)](https://www.linkedin.com/in/ignatius-obiorah-5242a6191/) [![Twitter Badge](https://img.shields.io/badge/-@whxspope-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/whxspope)](https://x.com/whxspope)
+ [![Website Badge](https://img.shields.io/badge/-pope-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://#)](#) [![Linkedin Badge](https://img.shields.io/badge/-ignatiusobiorah-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ignatius-obiorah-5242a6191/)](https://www.linkedin.com/in/ignatius-obiorah-5242a6191/)
 
-I'm a Frontend Engineer and Blockchain Enthusiast. I'm passionate about web3, crypto, video games, Skateboarding and the environment. I also write on my [Medium](https://medium.com/@whoispope_), [Cryptorag](https://swiftransact.substack.com/) and have a [YouTube](https://www.youtube.com/channel/UC3GoStsuaNtM9aw3gzT8KyA/featured) channel
+I'm a Frontend developer and blockchain enthusiast. I'm passionate about web3, crypto, video games, Skateboarding and the environment. I have a newsletter, The [Cryptorag](https://swiftransact.substack.com/), I write on my [Medium](https://medium.com/@whoispope_) and have a [YouTube](https://www.youtube.com/channel/UC3GoStsuaNtM9aw3gzT8KyA/featured) channel
 
 **Here's a quick summary about me**:
-
-- 😊 Pronouns: He/him
 - 🧑‍💻 My stack is JavaScript, Reactjs, and Typescript.
 - 💁 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Frontend Engineer (Intern or Junior level).
+- 💼 Job interests: Frontend Developer (Intern or Junior level).
 - 📫 You can [view my resume](https://docs.google.com/document/d/1dRT9CCBmQvUU85cK_YbNFF79doHATAkux1-EO_quo40/edit?usp=sharing) and contact me by emailing iobiorah23@gmail.com
 
 ---
